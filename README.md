@@ -19,12 +19,6 @@ brew install node
 brew install yarn
 ```
 
-Will also need [TypeScript](https://www.typescriptlang.org/) installed.
-
-```
-npm install -g typescript
-```
-
 ### Installing
 
 Change to the root directory and install dependencies.
