@@ -1,5 +1,6 @@
 {
   "name": "dollys-revenge",
+  "description": "Minecraft datapack, 100 sheep spawn every time a sheep is killed.",
   "version": "1.0.1",
   "main": "build.js",
   "repository": "https://github.com/MrKiplin/dollys-revenge.git",
