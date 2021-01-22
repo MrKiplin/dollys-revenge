@@ -1,0 +1,8 @@
+{
+  "name": "dollys-revenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MrKiplin/dollys-revenge.git",
+  "author": "Theo Jones <39280007+MrKiplin@users.noreply.github.com>",
+  "license": "MIT"
+}
