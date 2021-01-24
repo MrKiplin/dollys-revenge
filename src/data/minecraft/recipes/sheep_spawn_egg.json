@@ -1,6 +1,5 @@
 {
   "type": "crafting_shaped",
-  "group": "eggs",
   "pattern": [
     "###",
     "###",
@@ -12,7 +11,7 @@
     }
   },
   "result": {
-    "item": "minecraft:cooked_mutton",
-    "count": 9
+    "item": "minecraft:sheep_spawn_egg",
+    "count": 1
   }
 }
