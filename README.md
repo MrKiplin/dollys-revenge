@@ -18,7 +18,7 @@ Use 9 raw mutton to create a sheep spawn egg:
 
 ## How to install
 
-1. Download the [datapack zip file](https://github.com/MrKiplin/dollys-revenge/raw/main/dist/dollys-revenge-v1.0.1.zip)
+1. Download the [datapack zip file](https://github.com/MrKiplin/dolly/raw/main/dist/dolly-v1.0.1.zip)
 2. On the world selection screen, select your world and click "Edit".
 3. Click "Open World Folder".
 4. Place the datapack zip file in the `datapacks` folder.
