@@ -1,6 +1,16 @@
-# dollys-revenge
+# Dolly
 
 Minecraft 1.16 datapack that everyone needs.
+
+## Functions
+
+Summon 100 sheep:
+
+![](docs/functions/dolly.gif)
+
+```
+/function mrkiplin:dolly
+```
 
 ## Recipes
 
@@ -10,7 +20,7 @@ Use 9 raw mutton to create a sheep spawn egg:
 
 ## How to install
 
-1. Download the [datapack zip file](https://github.com/MrKiplin/dollys-revenge/raw/main/dist/dollys-revenge-v1.0.1.zip)
+1. Download the [datapack zip file](https://github.com/MrKiplin/dolly/raw/main/dist/dolly-v1.0.1.zip)
 2. On the world selection screen, select your world and click "Edit".
 3. Click "Open World Folder".
 4. Place the datapack zip file in the `datapacks` folder.
@@ -43,7 +53,7 @@ yarn
 
 ### Building
 
-To build the data pack, run the following command that will update the `.zip` file in the `dist` folder. This file can then be dropped into a worlds `datapacks` folder. The version number will be pulled from `package.json`:
+To build the data pack, run the following command that will update the `.zip` file in the `dist` folder. This file can then be dropped into a worlds `datapacks` folder. The name and version number will be pulled from `package.json`:
 
 ```
 yarn build
