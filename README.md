@@ -6,6 +6,8 @@ Minecraft 1.16 datapack that everyone needs.
 
 Summon 100 sheep:
 
+![](docs/functions/dolly.gif)
+
 ```
 /function mrkiplin:dolly
 ```
