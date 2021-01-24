@@ -2,9 +2,15 @@
 
 Minecraft 1.16 datapack that everyone needs.
 
+## Recipes
+
+Use 9 raw mutton to create a sheep spawn egg:
+
+![](docs/recipes/sheep-spawn-egg.png)
+
 ## How to install
 
-1. Download the [datapack zip file](https://github.com/MrKiplin/dollys-revenge/raw/master/dist/dollys-revenge-v1.0.1.zip)
+1. Download the [datapack zip file](https://github.com/MrKiplin/dollys-revenge/raw/main/dist/dollys-revenge-v1.0.1.zip)
 2. On the world selection screen, select your world and click "Edit".
 3. Click "Open World Folder".
 4. Place the datapack zip file in the `datapacks` folder.
@@ -45,6 +51,6 @@ yarn build
 
 ## Authors
 
-![](mrkiplin-icon.gif)
+![](docs/mrkiplin-icon.gif)
 
 - **Theodore Jones** - [MrKiplin](https://github.com/MrKiplin)
