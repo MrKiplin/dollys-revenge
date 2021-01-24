@@ -1,6 +1,14 @@
-# dollys-revenge
+# Dolly
 
 Minecraft 1.16 datapack that everyone needs.
+
+## Functions
+
+Summon 100 sheep:
+
+```
+/function mrkiplin:dolly
+```
 
 ## Recipes
 
