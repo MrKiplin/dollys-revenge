@@ -43,7 +43,7 @@ yarn
 
 ### Building
 
-To build the data pack, run the following command that will update the `.zip` file in the `dist` folder. This file can then be dropped into a worlds `datapacks` folder. The version number will be pulled from `package.json`:
+To build the data pack, run the following command that will update the `.zip` file in the `dist` folder. This file can then be dropped into a worlds `datapacks` folder. The name and version number will be pulled from `package.json` i.e `<package name>-v<package version>.zip`:
 
 ```
 yarn build
